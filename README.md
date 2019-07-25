@@ -17,7 +17,7 @@ A collection of guiding thoughts, principles, and best practices, à la Ray Dali
   - [Programming](#programming)
   - [Culture](#culture)
 - [Quotes](#quotes)
-  - [Programming](#programming)
+  - [Programming](#programming-1)
 
 ---
 
