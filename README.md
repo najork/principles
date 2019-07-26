@@ -55,10 +55,11 @@ A collection of guiding thoughts, principles, and best practices, à la Ray Dali
 
 ##### Morning
 
+- Wake up without an alarm when possible
+
 ##### Bedtime
 
 - Go to bed at a consistent time every night
-- Wake up without an alarm when possible
 - Target at least seven hours of sleep per night
 - Avoid screen time for an hour before bed
 - Use melatonin when traveling between time zones
