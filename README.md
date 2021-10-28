@@ -3,6 +3,7 @@
 A collection of guiding thoughts, principles, and best practices. This is intended to be a living document which evolves over time as I'm exposed to new opinions and ideas.
 
 - [Core Beliefs](#core-beliefs)
+- [Engineering](#engineering)
 - [Leadership](#leadership)
 
 ---
@@ -13,6 +14,13 @@ A collection of guiding thoughts, principles, and best practices. This is intend
 2. Write stuff down. Preferably in an easily-searchable medium. Doing so allows me to digest nascent thoughts and convert them into well-formed, organized content. It has the added bonus of persisting state outside of my mind in a manner which is easily sharable and retrievable.
 3. Rely on tools which free up cognitive space. Block time on the calendar for tasks as well as meetings. Maintain a to do list. Create a single source of truth for each category of mental state. Memory is ephemeral. Assume that things will not get done unless they are either completed in the moment or stored somewhere persistent.
 4. Create strategies for the short- and long-term but not the medium-term. The medium-term is too uncertain to plan for.
+
+## Engineering
+
+1. Keep it simple.
+2. The amount of energy that goes into getting something right the first time around should be directly correlated to how difficult it is to change.
+3. That said, build things with the expectation that you’ll get it wrong the first time. Build them in a manner that makes mistakes cheap and easy to fix. Optimize on getting feedback quickly and iterating.
+4. Either do the quick-and-dirty thing which buys a lot of time, or the long-term thing. Prefer the extremes. Avoid the middle.
 
 ## Leadership
 
@@ -33,6 +41,3 @@ A collection of guiding thoughts, principles, and best practices. This is intend
 15. Synchronous time is invaluable for creative problem solving. A whiteboard is worth its weight in gold. You should almost certainly be leveraging both of these whenever a new project kicks off.
 16. Leave meetings with next steps, owners, and timelines. Create a paper trail for transparency and accountability.
 17. Communicate wins. Ensure that individuals are recognized for their hard work.
-18. The amount of energy that goes into getting something right the first time around should be directly correlated to how difficult it is to change.
-19. That said, build things with the expectation that you’ll get it wrong the first time. Build them in a manner that makes mistakes cheap and easy to fix. Optimize on getting feedback quickly and iterating.
-20. Either do the quick-and-dirty thing which buys a lot of time, or the long-term thing. Prefer the extremes. Avoid the middle.
